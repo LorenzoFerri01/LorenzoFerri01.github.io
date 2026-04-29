@@ -23,7 +23,7 @@ cv:
 
   sections:
     Education:
-      - institution: École Polytechnique Fédérale de Lausanne
+      - institution: École Polytechnique Fédérale de Lausanne (EPFL)
         location: Lausanne, Switzerland
         area: Statistics, minor in Computer Science
         studyType: Master's degree
@@ -45,6 +45,16 @@ cv:
           - Alumnus of IANUA.
 
     Experience:
+      - company: École Polytechnique Fédérale de Lausanne (EPFL)
+        position: PhD student
+        location: Lausanne, Switzerland
+        start_date: 2026
+        end_date: PRESENT
+        summary: Time series and networks.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+
       - company: INDY lab (EPFL)
         position: Research Intern
         location: Lausanne, Switzerland
