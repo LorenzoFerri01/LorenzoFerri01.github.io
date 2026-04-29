@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student at EPFL.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>my office number, when I'll have one</p>
-    <p>my address street, , when I'll have one</p>
+    <p>my address street, when I'll have one</p>
     <p>Lausanne, Switzerland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
