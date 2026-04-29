@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-been-accepted-for-a-phd-position-at-epfl",
+            },},{id: "news-i-presented-my-master-s-thesis-about-autoregressive-networked-time-series-at-the-mast-workshop-mathematical-statistics-for-complex-data-at-università-di-genova-you-always-go-back-to-where-you-were-happy",
+          title: 'I presented my Master’s thesis about autoregressive networked time series at the MAST...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-accepted-for-a-phd-position-at-epfl",
           title: 'I have been accepted for a PhD position at EPFL!',
           description: "",
           section: "News",},{id: "projects-project-1",
