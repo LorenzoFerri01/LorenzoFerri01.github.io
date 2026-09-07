@@ -1,7 +1,7 @@
 cv:
   name: Lorenzo Ferri
-  label: PhD student
-  email: lori.ferri.01@gmail.com
+  label: Doctoral Assistant
+  email: lorenzo.ferri@epfl.ch
   location: Lausanne, Switzerland
   image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
@@ -15,11 +15,11 @@ cv:
   #     username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: INF 013 (Bâtiment INF) Station 14
+    city: Lausanne
+    region: Switzerland
+    postalCode: 1015
+    countryCode: CH
 
   sections:
     Education:
@@ -46,7 +46,7 @@ cv:
 
     Experience:
       - company: École Polytechnique Fédérale de Lausanne (EPFL)
-        position: PhD student
+        position: Doctoral Assistant
         location: Lausanne, Switzerland
         start_date: 2026
         end_date: PRESENT
@@ -140,7 +140,7 @@ cv:
         summary: "C2 (CAE score 201/210)"
         
       - name: French
-        summary: "C1"
+        summary: "C1 (DALF score 72.5/100)"
 
     # Interests:
     #   - name: Physics

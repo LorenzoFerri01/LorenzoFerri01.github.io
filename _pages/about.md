@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>my office number, when I'll have one</p>
-    <p>my address street, when I'll have one</p>
-    <p>Lausanne, Switzerland</p>
+    <p>INF 013</p>
+    <p>Bâtiment INF, Station 14</p>
+    <p>CH-1015 Lausanne</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,8 +33,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a prospective PhD students at [EPFL](https://www.epfl.ch/en/), starting in September 2026.
+I am fresh Doctoral Assistant at [EPFL](https://www.epfl.ch/en/), from September 2026.
 
-I will work on time series and networks, supervised by Prof. [Patrick Thiran](https://people.epfl.ch/patrick.thiran) from the Information and Network Dynamics ([INDY](https://indy.epfl.ch/)) lab, doctoral school of Computer and Communication Sciences ([EDIC](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)), and by Prof. [Sofia Olhede](https://people.epfl.ch/sofia.olhede?lang=en) from the Chair of Statistical Data Science ([SDS](https://www.epfl.ch/labs/sds/)), doctoral school of Mathematics ([EDMA](https://www.epfl.ch/education/phd/edma-mathematics/)).
+My advisors are Prof. [Patrick Thiran](https://people.epfl.ch/patrick.thiran) from the Information and Network Dynamics ([INDY](https://indy.epfl.ch/)) lab, doctoral school of Computer and Communication Sciences ([EDIC](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)), and Prof. [Sofia Olhede](https://people.epfl.ch/sofia.olhede?lang=en) from the Chair of Statistical Data Science ([SDS](https://www.epfl.ch/labs/sds/)), doctoral school of Mathematics ([EDMA](https://www.epfl.ch/education/phd/edma-mathematics/)).
 
-So excited to start soon!
+I am mainly working at the intersection of time series and network science, and my broader interests are probability, statistics, and ML.
+
+Feel free to connect!
